@@ -1,0 +1,4 @@
+[submodule "sub-module"]
+	path = sub-module
+	url = git@github.com:crazyones110/sub-module.git
+	branch = main
